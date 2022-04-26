@@ -1,0 +1,211 @@
+#flex-container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: DarkBlue;
+  height: 100px;
+}
+
+#box-titolo{
+   color: white;
+   font-family: arial;
+}
+
+.RomaTre {
+   width: 140px;
+   height: 90px;
+}
+
+#flex-nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: DarkBlue;
+  opacity: 0.7;
+  height: 40px;
+}
+
+.box-research{
+  color: white;
+  font-family: normal;
+   margin-left: 10px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.box-research:hover{
+  text-decoration: underline;
+  color: yellow;
+}
+
+.box-didattica{
+  font-family: normal;
+  margin-left: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.box-didattica:hover{
+  text-decoration: underline;
+  color:yellow;
+}
+
+.box-currFund{
+  color: white;
+  font-family: normal;
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.box-currFund:hover{
+  text-decoration: underline;
+  color:yellow;
+}
+
+.box-service{
+  color: white;
+  font-family: normal;
+  margin-left: 20px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.box-service:hover{
+  text-decoration: underline;
+  color:yellow;
+}
+
+.box-publications{
+  color: white;
+  font-family: normal;
+  margin-left: 0px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.box-publications:hover{
+  text-decoration: underline;
+  color:yellow;
+}
+
+.box-activities{
+  color: white;
+  font-family: normal;
+  margin-right: 10px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.box-activities:hover{
+  text-decoration: underline;
+  color:yellow;
+}
+
+#flex-presentation{
+  background-color: white;
+  height: 400px;
+}
+
+.flex-presenta{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ECF7FC;
+  height: 180px;
+  margin-top: -280px;
+}
+
+.Professore{
+  padding: 30px;
+}
+
+#separatore{
+  margin-top: 30px;
+  border-bottom: 15px solid DarkBlue;
+}
+
+.paragResearch{
+  padding-top: 20px;
+  font-size: 18px;
+}
+
+.A-Research {
+  color: DarkBlue;
+  font-weight: bold;
+  border-top: 1px solid DarkBlue;
+  border-bottom: 1px solid DarkBlue;
+}
+
+#separatore1{
+  margin-top: -10px;
+  border-bottom: 5px solid DarkBlue;
+}
+
+.paragCurrFund{
+  padding-top: -10px;
+  font-size: 18px;
+}
+
+.A-CurrFund {
+  color: DarkBlue;
+  font-weight: bold;
+  border-top: 1px solid DarkBlue;
+  border-bottom: 1px solid DarkBlue;
+}
+
+#separatore2{
+  margin-top: -10px;
+  border-bottom: 5px solid DarkBlue;
+}
+
+.paragService{
+  padding-top: -10px;
+  font-size: 18px;
+}
+
+.A-Service {
+  color: DarkBlue;
+  font-weight: bold;
+  border-top: 1px solid DarkBlue;
+  border-bottom: 1px solid DarkBlue;
+}
+
+#separatore3{
+  margin-top: -10px;
+  border-bottom: 5px solid DarkBlue;
+}
+
+.paragPublications{
+  padding-top: -10px;
+  font-size: 18px;
+}
+
+.A-Publications {
+  color: DarkBlue;
+  font-weight: bold;
+  border-top: 1px solid DarkBlue;
+  border-bottom: 1px solid DarkBlue;
+}
+
+#separatore4{
+  margin-top: -10px;
+  border-bottom: 5px solid DarkBlue;
+}
+
+.paragActivities{
+  padding-top: -10px;
+  font-size: 18px;
+}
+
+.A-Activities {
+  color: DarkBlue;
+  font-weight: bold;
+  border-top: 1px solid DarkBlue;
+  border-bottom: 1px solid DarkBlue;
+}
+
+#colore-sfondo{
+  background-color: #ECF7FC;
+}
