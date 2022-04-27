@@ -122,7 +122,7 @@
 }
 
 #separatore{
-  margin-top: 30px;
+  margin-top: 50px;
   border-bottom: 15px solid DarkBlue;
 }
 
@@ -140,7 +140,7 @@
 
 #separatore1{
   margin-top: -10px;
-  border-bottom: 5px solid DarkBlue;
+  border-bottom: 3px solid DarkBlue;
 }
 
 .paragCurrFund{
@@ -157,7 +157,7 @@
 
 #separatore2{
   margin-top: -10px;
-  border-bottom: 5px solid DarkBlue;
+  border-bottom: 3px solid DarkBlue;
 }
 
 .paragService{
@@ -174,7 +174,7 @@
 
 #separatore3{
   margin-top: -10px;
-  border-bottom: 5px solid DarkBlue;
+  border-bottom: 3px solid DarkBlue;
 }
 
 .paragPublications{
@@ -191,7 +191,7 @@
 
 #separatore4{
   margin-top: -10px;
-  border-bottom: 5px solid DarkBlue;
+  border-bottom: 3px solid DarkBlue;
 }
 
 .paragActivities{
